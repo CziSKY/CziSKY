@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**CziSKY/CziSKY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>
 
-Here are some ideas to get you started:
+```kotlin
+ 
+object CziSKY : Noobie(age = 18) {
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    fun description() = listOf("Minecraft developer", "Anime lover", "🐦")
+
+    fun learningLanguage() = listOf("Java", "Kotlin", "Haskell", "Rust", "Scala")
+}
+ 
+```
+
+</h3>
