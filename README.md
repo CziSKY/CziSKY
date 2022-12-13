@@ -6,9 +6,9 @@
  
 object CziSKY : Noobie(age = 18) {
 
-    fun description() = listOf("Minecraft developer", "Furry", "🐦")
+    fun description() = listOf("家里蹲", "废物")
 
-    fun learningLanguage() = listOf("Java", "Kotlin", "Haskell", "Scala")
+    fun learningLanguage() = listOf("Java", "Kotlin", "Python", "Haskell", "Scala")
 }
  
 ```
