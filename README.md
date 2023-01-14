@@ -4,7 +4,7 @@
 
 ```kotlin
  
-object CziSKY : Noobie(age = 18) {
+object CziSKY : Noobie(age = 19) {
 
     fun description() = listOf("家里蹲", "废物", "Furry")
 
